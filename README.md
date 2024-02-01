@@ -1,12 +1,10 @@
 # Giri7a-ExpenseTrackerApplication
 
-Full-Stack-Assignment: Expense Tracker Application
-Objective:
-Create an Expense Tracker application using React for the frontend and Java with
-Spring Boot for the backend. In addition to individual expense tracking, implement a
-group feature that allows users to manage shared expenses within a group setting.
-Requirements:
-Backend (Java/Spring Boot):
+# Full-Stack-Assignment: Expense Tracker Application
+## Objective:
+Create an Expense Tracker application using React for the frontend and Java with Spring Boot for the backend. In addition to individual expense tracking, implement a group feature that allows users to manage shared expenses within a group setting.
+## Requirements:
+### Backend (Java/Spring Boot):
 - Set up a Spring Boot project to serve as the backend.
 - Design a data model for expenses with attributes like amount, category, date,
 and description.
